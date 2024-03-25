@@ -1,0 +1,22 @@
+{
+  "careers": [
+    {
+      "id": "d64f",
+      "title": "Wordpress  Web Developer",
+      "description": "A wordpress web developer is.",
+      "salary": "2000-3000"
+    },
+    {
+      "id": "3448",
+      "title": "Data Analyst",
+      "description": "Analyze and interpret complex data sets. Salary range for Data Analyst is ",
+      "salary": "60000 - 110000"
+    },
+    {
+      "id": "8c89",
+      "title": "Data Analyst",
+      "description": "Analyze and interpret complex data sets. Salary range for Data Analyst is ",
+      "salary": "60000 - 100000"
+    }
+  ]
+}
